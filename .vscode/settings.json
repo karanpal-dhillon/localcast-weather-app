@@ -1,0 +1,25 @@
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [90, 140],
+  "files.trimTrailingWhitespace": true,
+  "files.autoSave": "onFocusChange",
+  "editor.cursorBlinking": "solid",
+
+  "git.enableSmartCommit": true,
+  "editor.autoIndent": true,
+  "debug.openExplorerOnEnd": true,
+
+  "explorer.openEditors.visible": 0,
+  "editor.minimap.enabled": false,
+  "html.autoClosingTags": false,
+  "git.confirmSync": false,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.printWidth": 90,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "typescriptHero.imports.multiLineWrapThreshold": 90,
+  "editor.codeActionsOnSave": { "source.organizeImports": true },
+  "npm.enableScriptExplorer": true
+}
